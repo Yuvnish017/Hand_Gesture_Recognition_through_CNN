@@ -5,6 +5,9 @@ The project aims at recognition of alphabets communicated through hand gestures 
 subtraction to extract hand from image/video frame by extracting skin colour in image using OpenCV and Python. Once background subtraction is done recognition/classification task
 is done using a custom CNN architecture. The model is able to recognize all the 26 English alphabets in image as well as video.
 
+##### American Sign Language
+![alt text](https://github.com/Yuvnish017/Hand_Gesture_Recognition_through_CNN/blob/master/American_Sign_Language.png?raw=true)
+
 ### Prerequisites
 - Python
 - OpenCV
